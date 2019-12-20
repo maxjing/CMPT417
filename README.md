@@ -1,3 +1,4 @@
+# Regards http://picat-lang.org/lp_cp_pc/Pizza.html
 # pizza.mzn
      language using: Minizinc
 # pizza-optimize-version.mzn
